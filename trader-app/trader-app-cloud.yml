@@ -17,3 +17,5 @@ spring.jpa.database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
 your:
   host:
     is: "Allard Buijze"
+
+management.endpoint.health.show-details: always
