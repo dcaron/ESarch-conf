@@ -18,4 +18,6 @@ your:
   host:
     is: "Allard Buijze"
 
-management.endpoint.health.show-details: always
+management:
+  endpoint.health.show-details: always
+  info.git.mode: full
